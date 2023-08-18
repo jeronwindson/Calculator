@@ -11,6 +11,7 @@ function back() {
     var display = document.getElementById('display').innerHTML;
     document.getElementById('display').innerHTML = display.substring(0, display.length -1);
 }
+
 function calcular() {
     var display = document.getElementById('display').innerHTML;
     if(display) {
@@ -18,5 +19,4 @@ function calcular() {
     } else {
         document.getElementById('display').innerHTML = "";
     }
-
 }
