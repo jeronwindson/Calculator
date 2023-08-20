@@ -40,8 +40,9 @@
 }
 
 .button:hover {
-    transform: scale(1.08);
-    background-color: rgba(107, 230, 255, 0.795);
+    transform: scale(1.07);
+    background-color: rgba(43, 38, 91, 0.795);
+    color: white;
 }
 
 #delet {
