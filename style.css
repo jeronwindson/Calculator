@@ -8,6 +8,7 @@
 .fundo {
    background-image: linear-gradient(45deg, black, rgb(6, 6, 157) );
    height: 100vh;
+   
 }
 
 .name {
@@ -27,6 +28,7 @@
     padding: 13px;
     border-radius: 12px;
     padding-bottom: 25px;
+    box-shadow: 5px 5px 8px rgb(0, 0, 0, 0.336);
 }
 
 .button {

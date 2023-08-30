@@ -3,9 +3,11 @@ function insert(num) {
     document.getElementById('display').innerHTML = numero + num;
 }
 
+
 function clean() {
     document.getElementById('display').innerHTML = "";
 }
+
 
 function back() {
     var display = document.getElementById('display').innerHTML;
